@@ -11,5 +11,5 @@ This repository contains detaied analysis of Online Retail data provided by the 
  
  3. `Product_categorisation.ipynb` contains analysis of the products sold by the company. There is an attempt of categorisation of products by names, but in the end I deceded to choose simplier categorisation by the price of the products
 
- 4. `Customer_categorisation.ipynb` splits the customers into groups according to their purchase patterns and product purchases, and characterises the obtained customer personas. I also describe churning of users here.
+ 4. `Customer_categorisation.ipynb` splits the customers into groups according to their purchase patterns and product purchases, and characterises the obtained customer personas. I also suggest a way to detect churning users there, study churning dynamics in 2011, and identify the users of high risk of churning by the end of 2011.
 
