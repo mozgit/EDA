@@ -1,4 +1,4 @@
-# Test assignment
+# Analysis of the online retailer sales data
 
 This repository contains detaied analysis of Online Retail data provided by the UCI. To execute the notebooks on your local machine, please keep the order (since they do some intermediate data processing):
 
